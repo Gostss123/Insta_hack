@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usR/bin/env python3
 #
 #  [Program]
 #
@@ -44,10 +44,10 @@ class TestCupp(unittest.TestCase):
 
     def test_generate_wordlist_from_profile(self):
         profile = {
-            "name": "владимир",
-            "surname": "путин",
-            "nick": "putin",
-            "birthdate": "07101952",
+            "name": ALI
+            "surname": 3LAWY__L
+            "nick": 3R
+            "birthdate": 2011
             "wife": "людмила",
             "wifen": "ljudmila",
             "wifeb": "06011958",
